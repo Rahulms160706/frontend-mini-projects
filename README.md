@@ -2,9 +2,6 @@
 
 This repository contains a small set of frontend practice projects created while learning core web development concepts.
 
-🔗 **Live Demo (GitHub Pages):**  
-https://rahulms160706.github.io/frontend-mini-projects/
-
 ## Projects
 - **Dark Mode** → https://rahulms160706.github.io/frontend-mini-projects/dark_mode/
 - **Sound Board** → https://rahulms160706.github.io/frontend-mini-projects/sound-board/
